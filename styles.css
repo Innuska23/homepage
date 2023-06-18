@@ -175,7 +175,8 @@ body {
 .experiences__header {
   color: var(--secondary-text-color);
   text-align: left;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  text-transform: uppercase;
 }
 
 .experiences__company-header-durability {
@@ -222,6 +223,7 @@ body {
 
 .additional-info__education {
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .additional-info__education-header {
@@ -235,6 +237,7 @@ body {
   text-align: left;
   margin-bottom: 10px;
   font-size: 15px;
+  margin-top: 10px;
 }
 
 .additional-info__education-university-speciality {
@@ -245,6 +248,7 @@ body {
 
 .additional-info__education-university-name {
   color: var(--secondary-text-color);
+  margin-top: 10px;
 }
 
 .additional-info__languages {
